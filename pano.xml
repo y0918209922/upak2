@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour start="node8" appversion="6.1.2" apprev="17873">
+  <panorama id="node8">
+    <input height="2000" overlap="1" leveltileurl="tiles/node8/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" width="2000" leveltilesize="510" levelbiashidpi="1.000" levelbias="0.400" levelingroll="0">
+      <level height="2000" predecode="0" width="2000" preload="0"/>
+      <level height="1000" predecode="0" width="1000" preload="0"/>
+      <level height="500" predecode="1" width="500" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="0" projection="4" fov="70" tilt="0"/>
+      <flyin pan="0" projection="9" fov="170" tilt="-90"/>
+      <min pan="-180" fovpixel="2" tilt="-60.4952"/>
+      <max pan="180" fovstereographic="270" fov="120" fovfisheye="360" tilt="60.4952"/>
+    </view>
+    <userdata author="" longitude="" comment="" latitude="" source="" info="" datetime="" copyright="" description="" customnodeid="" nodeid="node8" tags="3DVR-Pano2VR Pro v6.1.2 Portable|plan" title="">
+      <mapcoords x="0.769043" y="-1.65482" x_floorplan_percent="54.8213" y_floorplan_percent="84.6208" mapid="FloorPlan01"/>
+    </userdata>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label bordercolor="0x000000" border="1" height="20" textalpha="1" background="1" backgroundcolor="0xffffff" wordwrap="1" enabled="1" borderalpha="1" width="180" textcolor="0x000000" borderradius="1" backgroundalpha="1"/>
+      <polystyle bordercolor="0x0000ff" backgroundcolor="0x0000ff" handcursor="1" mode="0" borderalpha="1" backgroundalpha="0.25098"/>
+      <hotspot pan="-330.34" description="品質是企業自下而上的根本，瑋鋒始終全力以赴，追求完美品質，從產品開發設計、製造到品質控管等各個環節， 都嚴格依照 ISO 標準程序運作。 一、 品質第一：力求完美品質，每個環節都能遵循標準程序運作。 二、 交期最速：精確生產排程，提供顧客準確而迅速的產品交期。 三、 服務最佳：強化整體能力，快速而完整的滿足客戶相關需求" target="_blank" url="https://www.otod.com.tw/upak/about_view-80" skinid="ht_url" tilt="-9.82" id="Point02" title="品質政策"/>
+      <hotspot pan="-324.07" description="過去多把持於外商手裡的半導體捲帶市場，在台廠瑋鋒科技（U-pak）的努力下，已成功導入半導體大廠供應鏈中，今年也獲得政府單位補助，投入下世代晶圓級封裝材料的開發，並配合政府新南向政策，持續擴充菲律賓工廠產能。 「研發創新」是瑋鋒科技多年來的堅持，從開發國際級的捲帶（Tape＆Reel），到異方性導電膠膜（ACF）的推出，瑋鋒不斷挑戰自我，要以MIT品質在全球市場發光發熱。" target="_blank" url="https://www.otod.com.tw/upak/news_view-2" skinid="ht_url" tilt="-8.92" id="Point03" title="最新消息"/>
+      <hotspot pan="-0.23" description="" target="" url="{node10}" skinid="ht_node" tilt="-11.83" id="Point01" title=""/>
+    </hotspots>
+    <media>
+      <image pan="-33.550" rotx="0.000" height="510" roty="0.000" handcursor="1" rotz="0.000" fov="8.860" width="870" clickmode="4" stretch="1.000" tilt="-8.970" id="Element01">
+        <source url="media/老董照片.jpg"/>
+      </image>
+    </media>
+    <transition zoomspeed="2" zoomout="0" blendtime="1" zoomoutpause="0" softedge="0" zoomin="2" enabled="1" blendcolor="0x000000" type="crossdissolve" zoomfov="20"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
+    <control simulatemass="1" speedwheel="1" dblclickfullscreen="0" invertwheel="0" rubberband="0" sensitivity="8" lockedmouse="0" lockedwheel="0" invertcontrol="1" lockedkeyboard="0" hideabout="0" lockedkeyboardzoom="0" contextfullscreen="1" contextprojections="0"/>
+  </panorama>
+  <panorama id="node9">
+    <input height="2000" overlap="1" leveltileurl="tiles/node9/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" width="2000" leveltilesize="510" levelbiashidpi="1.000" levelbias="0.400" levelingroll="0">
+      <level height="2000" predecode="0" width="2000" preload="0"/>
+      <level height="1000" predecode="0" width="1000" preload="0"/>
+      <level height="500" predecode="1" width="500" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="0" projection="4" fov="70" tilt="0"/>
+      <flyin pan="0" projection="9" fov="170" tilt="-90"/>
+      <min pan="-180" fovpixel="2" tilt="-60.4952"/>
+      <max pan="180" fovstereographic="270" fov="120" fovfisheye="360" tilt="60.4952"/>
+    </view>
+    <userdata author="" longitude="" comment="" latitude="" source="" info="" datetime="" copyright="" description="" customnodeid="" nodeid="node9" tags="3DVR-Pano2VR Pro v6.1.2 Portable|plan" title="">
+      <mapcoords x="0.775909" y="-1.07117" x_floorplan_percent="55.3108" y_floorplan_percent="54.7753" mapid="FloorPlan01"/>
+    </userdata>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label bordercolor="0x000000" border="1" height="20" textalpha="1" background="1" backgroundcolor="0xffffff" wordwrap="1" enabled="1" borderalpha="1" width="180" textcolor="0x000000" borderradius="1" backgroundalpha="1"/>
+      <polystyle bordercolor="0x0000ff" backgroundcolor="0x0000ff" handcursor="1" mode="0" borderalpha="1" backgroundalpha="0.25098"/>
+      <hotspot pan="-13.99" description="歷史沿革" target="_blank" url="https://www.otod.com.tw/upak/about_view-108" skinid="ht_url" tilt="-3.59" id="Point01" title="歷史沿革"/>
+      <hotspot pan="-346.73" description="" target="_blank" url="https://www.otod.com.tw/upak/about_view-106" skinid="ht_url" tilt="-3.4" id="Point02" title=""/>
+      <hotspot pan="-0.41" description="" target="" url="{node10}" skinid="ht_node" tilt="-3.72" id="Point03" title=""/>
+      <hotspot pan="-180.64" description="" target="" url="{node8}" skinid="ht_node" tilt="-1.08" id="Point04" title=""/>
+    </hotspots>
+    <media/>
+    <transition zoomspeed="2" zoomout="0" blendtime="1" zoomoutpause="0" softedge="0" zoomin="2" enabled="1" blendcolor="0x000000" type="crossdissolve" zoomfov="20"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
+    <control simulatemass="1" speedwheel="1" dblclickfullscreen="0" invertwheel="0" rubberband="0" sensitivity="8" lockedmouse="0" lockedwheel="0" invertcontrol="1" lockedkeyboard="0" hideabout="0" lockedkeyboardzoom="0" contextfullscreen="1" contextprojections="0"/>
+  </panorama>
+  <panorama id="node10">
+    <input height="2000" overlap="1" leveltileurl="tiles/node10/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" width="2000" leveltilesize="510" levelbiashidpi="1.000" levelbias="0.400" levelingroll="0">
+      <level height="2000" predecode="0" width="2000" preload="0"/>
+      <level height="1000" predecode="0" width="1000" preload="0"/>
+      <level height="500" predecode="1" width="500" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="0" projection="4" fov="70" tilt="0"/>
+      <flyin pan="0" projection="9" fov="170" tilt="-90"/>
+      <min pan="-180" fovpixel="2" tilt="-60.4952"/>
+      <max pan="180" fovstereographic="270" fov="120" fovfisheye="360" tilt="60.4952"/>
+    </view>
+    <userdata author="" longitude="" comment="" latitude="" source="" info="" datetime="" copyright="" description="" customnodeid="" nodeid="node10" tags="3DVR-Pano2VR Pro v6.1.2 Portable|plan" title="">
+      <mapcoords x="0.769043" y="-0.741577" x_floorplan_percent="54.8213" y_floorplan_percent="37.9213" mapid="FloorPlan01"/>
+    </userdata>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label bordercolor="0x000000" border="1" height="20" textalpha="1" background="1" backgroundcolor="0xffffff" wordwrap="1" enabled="1" borderalpha="1" width="180" textcolor="0x000000" borderradius="1" backgroundalpha="1"/>
+      <polystyle bordercolor="0x0000ff" backgroundcolor="0x0000ff" handcursor="1" mode="0" borderalpha="1" backgroundalpha="0.25098"/>
+      <hotspot pan="-330.11" description="" target="" url="{node13}" skinid="ht_node" tilt="-15.21" id="Point01" title=""/>
+      <hotspot pan="-27.93" description="" target="" url="{node12}" skinid="ht_node" tilt="-15.24" id="Point02" title=""/>
+      <hotspot pan="-10.29" description="" target="" url="{node11}" skinid="ht_node" tilt="-7.13" id="Point03" title=""/>
+      <hotspot pan="-180" description="" target="" url="{node9}" skinid="ht_node" tilt="-4.3" id="Point04" title=""/>
+    </hotspots>
+    <media/>
+    <transition zoomspeed="2" zoomout="0" blendtime="1" zoomoutpause="0" softedge="0" zoomin="2" enabled="1" blendcolor="0x000000" type="crossdissolve" zoomfov="20"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
+    <control simulatemass="1" speedwheel="1" dblclickfullscreen="0" invertwheel="0" rubberband="0" sensitivity="8" lockedmouse="0" lockedwheel="0" invertcontrol="1" lockedkeyboard="0" hideabout="0" lockedkeyboardzoom="0" contextfullscreen="1" contextprojections="0"/>
+  </panorama>
+  <panorama id="node11">
+    <input height="2000" overlap="1" leveltileurl="tiles/node11/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" width="2000" leveltilesize="510" levelbiashidpi="1.000" levelbias="0.400" levelingroll="0">
+      <level height="2000" predecode="0" width="2000" preload="0"/>
+      <level height="1000" predecode="0" width="1000" preload="0"/>
+      <level height="500" predecode="1" width="500" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="0" projection="4" fov="70" tilt="0"/>
+      <flyin pan="0" projection="9" fov="170" tilt="-90"/>
+      <min pan="-180" fovpixel="2" tilt="-60.4952"/>
+      <max pan="180" fovstereographic="270" fov="120" fovfisheye="360" tilt="60.4952"/>
+    </view>
+    <userdata author="" longitude="" comment="" latitude="" source="" info="" datetime="" copyright="" description="" customnodeid="" nodeid="node11" tags="3DVR-Pano2VR Pro v6.1.2 Portable|plan" title="">
+      <mapcoords x="0.764923" y="-0.241699" x_floorplan_percent="54.5277" y_floorplan_percent="12.3596" mapid="FloorPlan01"/>
+    </userdata>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label bordercolor="0x000000" border="1" height="20" textalpha="1" background="1" backgroundcolor="0xffffff" wordwrap="1" enabled="1" borderalpha="1" width="180" textcolor="0x000000" borderradius="1" backgroundalpha="1"/>
+      <polystyle bordercolor="0x0000ff" backgroundcolor="0x0000ff" handcursor="1" mode="0" borderalpha="1" backgroundalpha="0.25098"/>
+      <hotspot pan="-111.98" description="" target="" url="{node12}" skinid="ht_node" tilt="-20.1" id="Point01" title=""/>
+      <hotspot pan="-249.59" description="" target="" url="{node13}" skinid="ht_node" tilt="-19.32" id="Point02" title=""/>
+    </hotspots>
+    <media>
+      <video roty="0.000" tiltsize="10.000" nodechangekeep="0" rotz="0.000" pansize="10.000" handcursor="0" mode="3" id="Element01" ambientlevel="0.000" pan="-359.950" startmutedmobile="0" tilt="-7.020" stretch="1.000" loop="1" level="1.000" rotx="-5.000" height="1080" field="90.000" clickmode="1" width="1920" fov="37.870">
+        <source url="media/瑋鋒企業影片WF_Final_0903.mov"/>
+      </video>
+    </media>
+    <transition zoomspeed="2" zoomout="0" blendtime="1" zoomoutpause="0" softedge="0" zoomin="2" enabled="1" blendcolor="0x000000" type="crossdissolve" zoomfov="20"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
+    <control simulatemass="1" speedwheel="1" dblclickfullscreen="0" invertwheel="0" rubberband="0" sensitivity="8" lockedmouse="0" lockedwheel="0" invertcontrol="1" lockedkeyboard="0" hideabout="0" lockedkeyboardzoom="0" contextfullscreen="1" contextprojections="0"/>
+  </panorama>
+  <panorama id="node12">
+    <input height="2000" overlap="1" leveltileurl="tiles/node12/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" width="2000" leveltilesize="510" levelbiashidpi="1.000" levelbias="0.400" levelingroll="0">
+      <level height="2000" predecode="0" width="2000" preload="0"/>
+      <level height="1000" predecode="0" width="1000" preload="0"/>
+      <level height="500" predecode="1" width="500" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="0" projection="4" fov="70" tilt="0"/>
+      <flyin pan="0" projection="9" fov="170" tilt="-90"/>
+      <min pan="-180" fovpixel="2" tilt="-60.4952"/>
+      <max pan="180" fovstereographic="270" fov="120" fovfisheye="360" tilt="60.4952"/>
+    </view>
+    <userdata author="" longitude="" comment="" latitude="" source="" info="" datetime="" copyright="" description="" customnodeid="" nodeid="node12" tags="3DVR-Pano2VR Pro v6.1.2 Portable|plan" title="">
+      <mapcoords x="1.01967" y="-0.457306" x_floorplan_percent="72.6872" y_floorplan_percent="23.3848" mapid="FloorPlan01"/>
+    </userdata>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label bordercolor="0x000000" border="1" height="20" textalpha="1" background="1" backgroundcolor="0xffffff" wordwrap="1" enabled="1" borderalpha="1" width="180" textcolor="0x000000" borderradius="1" backgroundalpha="1"/>
+      <polystyle bordercolor="0x0000ff" backgroundcolor="0x0000ff" handcursor="1" mode="0" borderalpha="1" backgroundalpha="0.25098"/>
+      <hotspot pan="-189.45" description="" target="" url="{node13}" skinid="ht_node" tilt="-0.31" id="Point03" title=""/>
+      <hotspot pan="-230.95" description="" target="" url="{node11}" skinid="ht_node" tilt="-16.21" id="Point04" title=""/>
+      <hotspot pan="-98.06" description="" target="" url="{node9}" skinid="ht_node" tilt="-3.64" id="Point01" title=""/>
+    </hotspots>
+    <media>
+      <video roty="27.000" tiltsize="10.000" nodechangekeep="0" rotz="2.000" pansize="10.000" handcursor="0" mode="3" id="Element01" ambientlevel="0.000" pan="-252.450" startmutedmobile="0" tilt="2.020" stretch="1.000" loop="1" level="1.000" rotx="3.000" height="1080" field="90.000" clickmode="0" width="1920" fov="29.890">
+        <source url="media/瑋鋒企業影片WF_Final_0903.mov"/>
+      </video>
+    </media>
+    <transition zoomspeed="2" zoomout="0" blendtime="1" zoomoutpause="0" softedge="0" zoomin="2" enabled="1" blendcolor="0x000000" type="crossdissolve" zoomfov="20"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
+    <control simulatemass="1" speedwheel="1" dblclickfullscreen="0" invertwheel="0" rubberband="0" sensitivity="8" lockedmouse="0" lockedwheel="0" invertcontrol="1" lockedkeyboard="0" hideabout="0" lockedkeyboardzoom="0" contextfullscreen="1" contextprojections="0"/>
+  </panorama>
+  <panorama id="node13">
+    <input height="2000" overlap="1" leveltileurl="tiles/node13/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" width="2000" leveltilesize="510" levelbiashidpi="1.000" levelbias="0.400" levelingroll="0">
+      <level height="2000" predecode="0" width="2000" preload="0"/>
+      <level height="1000" predecode="0" width="1000" preload="0"/>
+      <level height="500" predecode="1" width="500" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="0" projection="4" fov="70" tilt="0"/>
+      <flyin pan="0" projection="9" fov="170" tilt="-90"/>
+      <min pan="-180" fovpixel="2" tilt="-60.4952"/>
+      <max pan="180" fovstereographic="270" fov="120" fovfisheye="360" tilt="60.4952"/>
+    </view>
+    <userdata author="" longitude="" comment="" latitude="" source="" info="" datetime="" copyright="" description="" customnodeid="" nodeid="node13" tags="3DVR-Pano2VR Pro v6.1.2 Portable|plan" title="">
+      <mapcoords x="0.492325" y="-0.4216" x_floorplan_percent="35.0954" y_floorplan_percent="21.559" mapid="FloorPlan01"/>
+    </userdata>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label bordercolor="0x000000" border="1" height="20" textalpha="1" background="1" backgroundcolor="0xffffff" wordwrap="1" enabled="1" borderalpha="1" width="180" textcolor="0x000000" borderradius="1" backgroundalpha="1"/>
+      <polystyle bordercolor="0x0000ff" backgroundcolor="0x0000ff" handcursor="1" mode="0" borderalpha="1" backgroundalpha="0.25098"/>
+      <hotspot pan="-31.55" description="" target="_blank" url="https://www.otod.com.tw/upak/product_view-ct9-17" skinid="ht_url" tilt="8.73" id="Point01" title="IC與電子零件承載帶 Carrier Tape"/>
+      <hotspot pan="-27.57" description="" target="_blank" url="https://www.otod.com.tw/upak/product_view-ct9-18" skinid="ht_url" tilt="1.33" id="Point02" title="WLCSP專用承載帶 Mini Tape"/>
+      <hotspot pan="-22.85" description="" target="_blank" url="https://www.otod.com.tw/upak/product_view-ct9-28" skinid="ht_url" tilt="-7.13" id="Point03" title="塑膠圓盤 Plastic Reel"/>
+      <hotspot pan="-16.33" description="" target="_blank" url="https://www.otod.com.tw/upak/product_view-ct9-13" skinid="ht_url" tilt="-0.63" id="Point04" title="熱封式覆蓋帶 HAA Cover Tape"/>
+      <hotspot pan="-8.34" description="" target="_blank" url="https://www.otod.com.tw/upak/product_view-ct9-19" skinid="ht_url" tilt="-0.35" id="Point05" title="自黏式覆蓋帶 PSA Cover Tape"/>
+      <hotspot pan="-17.76" description="" target="_blank" url="https://www.otod.com.tw/upak/product_view-ct9-7" skinid="ht_url" tilt="-14.7" id="Point06" title="導電片材與保護帶Conductive PS sheet &amp; Protective band"/>
+      <hotspot pan="-180.6" description="" target="" url="{node12}" skinid="ht_node" tilt="-2.54" id="Point09" title=""/>
+      <hotspot pan="-129.23" description="" target="" url="{node11}" skinid="ht_node" tilt="-22.06" id="Point08" title=""/>
+      <hotspot pan="-261.59" description="" target="" url="{node9}" skinid="ht_node" tilt="-2.93" id="Point07" title=""/>
+    </hotspots>
+    <media>
+      <image pan="-30.490" rotx="0.000" height="1406" roty="0.000" handcursor="0" rotz="0.000" fov="7.177" width="2500" clickmode="0" stretch="1.000" tilt="13.800" id="Element01">
+        <source url="media/標準型-0.jpg"/>
+      </image>
+      <image pan="-218.980" rotx="18.000" height="408" roty="0.000" handcursor="0" rotz="0.000" fov="2.680" width="297" clickmode="0" stretch="1.000" tilt="31.770" id="Element04">
+        <source url="media/台灣.jpg"/>
+      </image>
+      <image pan="-218.000" rotx="29.000" height="419" roty="0.000" handcursor="0" rotz="0.000" fov="2.567" width="285" clickmode="0" stretch="1.000" tilt="36.520" id="Element05">
+        <source url="media/天津.jpg"/>
+      </image>
+      <image pan="-212.920" rotx="0.000" height="428" roty="0.000" handcursor="0" rotz="0.000" fov="1.443" width="278" clickmode="0" stretch="1.000" tilt="35.360" id="Element06">
+        <source url="media/東莞.jpg"/>
+      </image>
+      <video roty="0.000" tiltsize="10.000" nodechangekeep="0" rotz="0.000" pansize="10.000" handcursor="0" mode="3" id="Element02" ambientlevel="0.000" pan="-26.710" startmutedmobile="0" tilt="6.320" stretch="1.000" loop="1" level="1.000" rotx="0.000" height="100" field="90.000" clickmode="0" width="100" fov="7.308">
+        <source url="media/精準.mov"/>
+      </video>
+      <video roty="-29.000" tiltsize="10.000" nodechangekeep="0" rotz="-1.000" pansize="10.000" handcursor="0" mode="3" id="Element03" ambientlevel="0.000" pan="-108.240" startmutedmobile="0" tilt="0.870" stretch="1.000" loop="1" level="1.000" rotx="3.000" height="1080" field="90.000" clickmode="0" width="1920" fov="30.000">
+        <source url="media/瑋鋒企業影片WF_Final_0903.mov"/>
+      </video>
+    </media>
+    <transition zoomspeed="2" zoomout="0" blendtime="1" zoomoutpause="0" softedge="0" zoomin="2" enabled="1" blendcolor="0x000000" type="crossdissolve" zoomfov="20"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
+    <control simulatemass="1" speedwheel="1" dblclickfullscreen="0" invertwheel="0" rubberband="0" sensitivity="8" lockedmouse="0" lockedwheel="0" invertcontrol="1" lockedkeyboard="0" hideabout="0" lockedkeyboardzoom="0" contextfullscreen="1" contextprojections="0"/>
+  </panorama>
+  <masternode>
+    <userdata author="" longitude="" comment="" latitude="" source="" info="" datetime="" copyright="" description="" customnodeid="" nodeid="master" tags="" title=""/>
+  </masternode>
+  <map height="2848" tileformat="jpg" bgcolor="rgba(255, 255, 255, 1)" transparent="0" width="2043" id="FloorPlan01" title="plan" type="file" zoomlevels="1" floorplannorth="0"/>
+</tour>
